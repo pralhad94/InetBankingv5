@@ -1,0 +1,132 @@
+2019-01-19 23:53:01,327 [main] INFO InetBanking - url opened
+2019-01-19 23:53:04,596 [main] INFO InetBanking - username entered
+2019-01-19 23:53:04,891 [main] INFO InetBanking - password entered
+2019-01-19 23:53:08,865 [main] INFO InetBanking - clicked on sumbit
+2019-01-19 23:53:08,889 [main] INFO InetBanking - login test passed
+2019-01-20 00:24:44,751 [main] INFO InetBanking - url opened
+2019-01-20 00:24:48,491 [main] INFO InetBanking - username entered
+2019-01-20 00:24:48,822 [main] INFO InetBanking - password entered
+2019-01-20 00:24:52,081 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 00:24:52,174 [main] INFO InetBanking - login test passed
+2019-01-20 00:30:29,770 [main] INFO InetBanking - url opened
+2019-01-20 00:30:31,146 [main] INFO InetBanking - username entered
+2019-01-20 00:30:31,359 [main] INFO InetBanking - password entered
+2019-01-20 00:30:34,210 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 00:30:34,309 [main] INFO InetBanking - login test passed
+2019-01-20 00:39:56,035 [main] INFO InetBanking - url opened
+2019-01-20 00:39:57,820 [main] INFO InetBanking - username entered
+2019-01-20 00:39:58,139 [main] INFO InetBanking - password entered
+2019-01-20 00:40:02,072 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 00:40:02,192 [main] INFO InetBanking - login test passed
+2019-01-20 00:59:06,862 [main] INFO InetBanking - url opened
+2019-01-20 00:59:07,471 [main] INFO InetBanking - username entered
+2019-01-20 00:59:07,837 [main] INFO InetBanking - password entered
+2019-01-20 00:59:11,366 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 00:59:11,448 [main] INFO InetBanking - login test passed
+2019-01-20 01:01:21,440 [main] INFO InetBanking - url opened
+2019-01-20 01:01:22,583 [main] INFO InetBanking - username entered
+2019-01-20 01:01:22,961 [main] INFO InetBanking - password entered
+2019-01-20 01:01:28,535 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 01:01:28,565 [main] INFO InetBanking - login test passed
+2019-01-20 03:26:35,684 [main] INFO InetBanking - url opened
+2019-01-20 03:26:38,651 [main] INFO InetBanking - username entered
+2019-01-20 03:26:39,195 [main] INFO InetBanking - password entered
+2019-01-20 03:26:43,893 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 03:26:43,920 [main] INFO InetBanking - login test passed
+2019-01-20 03:49:51,007 [main] INFO InetBanking - url opened
+2019-01-20 03:49:52,362 [main] INFO InetBanking - username entered
+2019-01-20 03:49:52,677 [main] INFO InetBanking - password entered
+2019-01-20 03:49:57,550 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 03:49:57,572 [main] INFO InetBanking - login test passed
+2019-01-20 03:53:45,829 [main] INFO InetBanking - url opened
+2019-01-20 03:53:46,618 [main] INFO InetBanking - username entered
+2019-01-20 03:53:47,053 [main] INFO InetBanking - password entered
+2019-01-20 03:53:49,508 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 03:55:41,754 [main] INFO InetBanking - url opened
+2019-01-20 03:55:42,999 [main] INFO InetBanking - username entered
+2019-01-20 03:55:43,267 [main] INFO InetBanking - password entered
+2019-01-20 03:55:45,830 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 03:58:41,298 [main] INFO InetBanking - url opened
+2019-01-20 03:58:42,578 [main] INFO InetBanking - username entered
+2019-01-20 03:58:42,894 [main] INFO InetBanking - password entered
+2019-01-20 03:58:45,470 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 05:43:31,203 [main] INFO InetBanking - username provided
+2019-01-20 05:43:31,916 [main] INFO InetBanking - password is provided
+2019-01-20 05:43:38,948 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:43:42,395 [main] INFO InetBanking - login success
+2019-01-20 05:43:48,700 [main] INFO InetBanking - logout success
+2019-01-20 05:43:49,091 [main] INFO InetBanking - username provided
+2019-01-20 05:43:49,272 [main] INFO InetBanking - password is provided
+2019-01-20 05:43:49,958 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:43:55,904 [main] INFO InetBanking - username provided
+2019-01-20 05:43:56,130 [main] INFO InetBanking - password is provided
+2019-01-20 05:43:56,690 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:44:02,437 [main] INFO InetBanking - username provided
+2019-01-20 05:44:02,674 [main] INFO InetBanking - password is provided
+2019-01-20 05:44:03,366 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:44:09,025 [main] INFO InetBanking - username provided
+2019-01-20 05:44:09,274 [main] INFO InetBanking - password is provided
+2019-01-20 05:44:09,998 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:49:09,833 [main] INFO InetBanking - username provided
+2019-01-20 05:49:10,105 [main] INFO InetBanking - password is provided
+2019-01-20 05:49:13,033 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:49:16,215 [main] INFO InetBanking - login success
+2019-01-20 05:49:20,614 [main] INFO InetBanking - logout success
+2019-01-20 05:49:20,989 [main] INFO InetBanking - username provided
+2019-01-20 05:49:21,252 [main] INFO InetBanking - password is provided
+2019-01-20 05:49:21,818 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:49:27,628 [main] INFO InetBanking - username provided
+2019-01-20 05:49:27,885 [main] INFO InetBanking - password is provided
+2019-01-20 05:49:28,653 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:49:34,324 [main] INFO InetBanking - username provided
+2019-01-20 05:49:34,555 [main] INFO InetBanking - password is provided
+2019-01-20 05:49:35,321 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:49:41,050 [main] INFO InetBanking - username provided
+2019-01-20 05:49:41,286 [main] INFO InetBanking - password is provided
+2019-01-20 05:49:41,946 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:53:10,804 [main] INFO InetBanking - username provided
+2019-01-20 05:53:11,061 [main] INFO InetBanking - password is provided
+2019-01-20 05:53:14,060 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:53:19,243 [main] INFO InetBanking - login success
+2019-01-20 05:53:20,556 [main] INFO InetBanking - logout success
+2019-01-20 05:53:26,433 [main] INFO InetBanking - username provided
+2019-01-20 05:53:26,679 [main] INFO InetBanking - password is provided
+2019-01-20 05:53:27,202 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:53:34,662 [main] INFO InetBanking - username provided
+2019-01-20 05:53:34,913 [main] INFO InetBanking - password is provided
+2019-01-20 05:53:35,654 [main] INFO InetBanking - clicked on submit
+2019-01-20 05:53:43,502 [main] INFO InetBanking - username provided
+2019-01-20 05:53:43,808 [main] INFO InetBanking - password is provided
+2019-01-20 05:53:44,387 [main] INFO InetBanking - clicked on submit
+2019-01-20 18:51:24,030 [main] INFO InetBanking - login is completed
+2019-01-20 18:51:29,818 [main] INFO InetBanking - providingcustomer details...
+2019-01-20 18:51:39,110 [main] INFO InetBanking - validating adding new customer
+2019-01-20 19:12:42,176 [main] INFO InetBanking - url opened
+2019-01-20 19:12:43,849 [main] INFO InetBanking - username entered
+2019-01-20 19:12:44,271 [main] INFO InetBanking - password entered
+2019-01-20 19:12:49,830 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 19:13:09,014 [main] INFO InetBanking - username provided
+2019-01-20 19:13:09,389 [main] INFO InetBanking - password is provided
+2019-01-20 19:13:13,853 [main] INFO InetBanking - clicked on submit
+2019-01-20 19:13:19,092 [main] INFO InetBanking - login success
+2019-01-20 19:13:20,519 [main] INFO InetBanking - logout success
+2019-01-20 19:13:26,603 [main] INFO InetBanking - username provided
+2019-01-20 19:13:26,870 [main] INFO InetBanking - password is provided
+2019-01-20 19:13:27,672 [main] INFO InetBanking - clicked on submit
+2019-01-20 19:13:35,468 [main] INFO InetBanking - username provided
+2019-01-20 19:13:35,691 [main] INFO InetBanking - password is provided
+2019-01-20 19:13:36,982 [main] INFO InetBanking - clicked on submit
+2019-01-20 19:13:45,282 [main] INFO InetBanking - username provided
+2019-01-20 19:13:45,561 [main] INFO InetBanking - password is provided
+2019-01-20 19:13:46,146 [main] INFO InetBanking - clicked on submit
+2019-01-20 19:14:10,600 [main] INFO InetBanking - login is completed
+2019-01-20 19:14:16,585 [main] INFO InetBanking - providingcustomer details...
+2019-01-20 19:14:27,163 [main] INFO InetBanking - validating adding new customer
+2019-01-20 19:43:34,850 [main] INFO InetBanking - url opened
+2019-01-20 19:43:35,360 [main] INFO InetBanking - username entered
+2019-01-20 19:43:35,674 [main] INFO InetBanking - password entered
+2019-01-20 19:43:38,614 [main] INFO InetBanking - clicked on sumbit
+2019-01-20 19:43:38,692 [main] INFO InetBanking - login test passed
+2019-01-20 19:43:56,005 [main] INFO InetBanking - login is completed
+2019-01-20 19:44:04,143 [main] INFO InetBanking - providingcustomer details...
+2019-01-20 19:44:13,689 [main] INFO InetBanking - validating adding new customer
