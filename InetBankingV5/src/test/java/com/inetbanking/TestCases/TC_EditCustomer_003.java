@@ -2,6 +2,7 @@ package com.inetbanking.TestCases;
 
 public class TC_EditCustomer_003 {
 	
-	// TC_Edi customer functionality
+	// TC_Edi customer functionalities
+	
 
 }
